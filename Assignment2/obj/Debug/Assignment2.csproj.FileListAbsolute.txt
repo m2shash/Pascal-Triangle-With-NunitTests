@@ -1,0 +1,5 @@
+C:\Users\laksh\OneDrive\Documents\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\laksh\OneDrive\Documents\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\laksh\OneDrive\Documents\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\laksh\OneDrive\Documents\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\laksh\OneDrive\Documents\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
